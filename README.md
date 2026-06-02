@@ -8,13 +8,16 @@ experiments using MLflow to observe how different features affect prediction acc
 ---
 
 ## Dataset
-The choice of data set was influenced by the main plan to handle loans and banking transactions using machine learning for faster and accurate process.
-Source: Kaggle — Loan Approval Prediction Dataset
-Rows: 4269 applicants
-Columns: 13 features including income, loan amount, credit score,
-assets, education, employment status and loan term.
-Target: loan_status — Approved or Rejected
-Dataset link: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
+
+The choice of dataset was influenced by the main plan to handle loans and banking 
+transactions using machine learning for faster and accurate process.
+
+**Source:** Kaggle — Loan Approval Prediction Dataset  
+**Rows:** 4269 applicants  
+**Columns:** 13 features including income, loan amount, credit score, assets, education, employment status and loan term.  
+**Target:** loan_status — Approved or Rejected  
+**Dataset link:** https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
+
 ---
 
 ## Technologies Used
