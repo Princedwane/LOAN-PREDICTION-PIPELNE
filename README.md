@@ -88,13 +88,14 @@ python check_runs.py
 - The dataset had no missing values — remove_missing found nothing to drop.
 
 ---
-
 ## Project Structure
 
-mini_project1.py — main pipeline with 4 functions and 4 MLflow runs
-check_runs.py — displays all experiment results
-README.md — project documentation
-requirements.txt — project dependencies
+| File | Description |
+|---|---|
+| mini_project.py | Main pipeline with 4 functions and 4 MLflow runs |
+| check_runs.py | Displays all experiment results from MLflow |
+| README.md | Project documentation |
+| requirements.txt | Project dependencies |
 
 ---
 
